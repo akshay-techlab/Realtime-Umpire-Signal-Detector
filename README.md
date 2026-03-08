@@ -15,8 +15,7 @@ WIDE
 NO BALL 
 DEAD BALL
 
-https://github.com/user-attachments/assets/632db8d6-9314-45b5-9ff2-ac4217ed23e2
-
+https://github.com/user-attachments/assets/caa2f2a5-b5e2-473a-a7ad-acc02e185f38
 
 Works with video input or webcam
 Lightweight and easy to run
